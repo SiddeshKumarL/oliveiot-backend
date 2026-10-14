@@ -9,6 +9,7 @@
 ## Endpoints
 | Method | Route | Roles |
 |---|---|---|
+| POST | /api/auth/register | public |
 | POST | /api/auth/login | public |
 | GET | /api/summary | any logged-in |
 | GET | /api/sites | any |
